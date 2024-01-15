@@ -76,3 +76,12 @@ header{
     font-size: 28px;
     margin: 0 0 0 50px;
 }
+
+#main-visual > img{
+    max-width: 620px;
+    border-radius: 476px 0 0 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 10;
+}
